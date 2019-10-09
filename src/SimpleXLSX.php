@@ -1,6 +1,6 @@
 <?php
 /**
- *    SimpleXLSX php class v0.8.9
+ *    SimpleXLSX php class v0.8.9999
  *    MS Excel 2007 workbooks reader
  *
  * Copyright (c) 2012 - 2019 SimpleXLSX
